@@ -18,6 +18,6 @@ Inlcudes, all the default features but with the addition of a new base theme, fl
 
 ## Detailed Information / Features
 - Codeigniter 3.1.11 
-- PHP 7.1 > 
+- PHP 7.1 > ( Tested - 7.4.9 )
 
 ## ForgeIgniter-CI-4.x - Version (Codename: Reignited)
