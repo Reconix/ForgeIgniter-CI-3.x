@@ -4,6 +4,8 @@ Friendly open source CMS forged on Codeigniter 3
 ## Installation
 To get started just upload all the files from ForgeIgniter to your webserver and go to your [www.domain.net]  
 the installer will handle the rest for you.  
+  
+  
 ![alt text](https://image.ibb.co/jToOSQ/installer.png "FI Installer")
 
 ## Getting Started & Guides 
